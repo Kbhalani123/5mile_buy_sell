@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592408313041",
+    "project_id": "mile-locally",
+    "storage_bucket": "mile-locally.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592408313041:android:68ba9a585931638cebd9f0",
+        "android_client_info": {
+          "package_name": "com.example.mile_locally"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvr05AbYhwMG1tijiiYMzZ-Q3Zm0mvjNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
